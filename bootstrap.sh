@@ -1,5 +1,7 @@
 #!/bin/sh
 
+## BOOM!
+
 # Install base
 apk update
 apk add openrc
